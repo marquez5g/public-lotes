@@ -106,6 +106,8 @@ footer {
 footer .copyright {
     width: 15rem;
     font-size: small;
+    display: flex;
+    justify-content: center;
 }
 
 footer .page-info{
